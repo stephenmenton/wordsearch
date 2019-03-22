@@ -1,0 +1,3 @@
+# at least 5 letters long, orthogonal only
+$ wordsearch.pl -f 2_input.txt  -l 5 -w u,d,l,r
+45 5+ words (searching d, l, r, u), advent, adventure, aught, beauty, brand, brandy, chang, change, courage, experience, faith, freed, freedom, friend, hange, happiness, harmon, harmony, health, honest, honesty, idite, intelligence, irfan, laugh, laughter, money, nesty, ocean, party, passion, popular, popularity, power, randy, rewin, spontaneity, success, thone, urnal, venture, wealth, wisdom, wonder, youth
